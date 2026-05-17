@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "760351838906",
+    "project_id": "appfire-c1ecf",
+    "storage_bucket": "appfire-c1ecf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760351838906:android:61662f294711cf467b6883",
+        "android_client_info": {
+          "package_name": "com.example.app_bd_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMXApkGS8c1r7b_F-uj4XlFN6eU2psxqc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
